@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: tests
+name: tests-auth
 
 on:
   pull_request:
